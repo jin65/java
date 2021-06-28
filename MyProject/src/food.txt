@@ -1,0 +1,15 @@
+chocolate
+hamburger
+icecream
+donut
+pizza
+chicken
+pasta
+salmon
+steak
+cake
+sandwich
+cookie
+soup
+sausage
+lemonaid
