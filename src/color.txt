@@ -1,0 +1,15 @@
+skyblue
+pink
+olivegreen
+salmonpink
+mint
+lightgreen
+blue
+black
+white
+purple
+brown
+magenta
+orange
+yellow
+silver
